@@ -1,4 +1,4 @@
-Free script to crawl data.humdata.org and collect stats on HXL data providers.
+Free script to crawl data.humdata.org and collect stats on HXL datasets.
 
 Requirements:
 
@@ -7,7 +7,7 @@ Requirements:
 
 Usage:
 
-    python3 hxl-providers.py
+    python3 hxl-datasets.py
 
 About HXL: http://hxlstandard.org
 
